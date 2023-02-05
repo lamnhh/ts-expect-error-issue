@@ -1,6 +1,6 @@
 {
     "name": "@lamnhh/package-b",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "",
     "main": "index.ts",
     "scripts": {
@@ -10,7 +10,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@lamnhh/package-a": "^1.0.0"
+        "@lamnhh/package-a": "^1.1.0"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
