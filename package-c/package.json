@@ -1,7 +1,7 @@
 {
     "dependencies": {
-        "@lamnhh/package-a": "^1.0.0",
-        "@lamnhh/package-b": "^1.0.1"
+        "@lamnhh/package-a": "^1.0.1",
+        "@lamnhh/package-b": "^1.0.2"
     },
     "devDependencies": {
         "typescript": "^4.3.2"
